@@ -10,7 +10,7 @@
     <accountNumber>NL56RABO0149876948</accountNumber>
     <description>Candy for Peter de Vries</description>
     <startBalance>5429</startBalance>
-    <mutation>-939</mutation>
+    <mutation>939</mutation>
     <endBalance>6368</endBalance>
   </record>
   <record reference="162197">
@@ -60,7 +60,7 @@
     <description>Tickets for Vincent Dekker</description>
     <startBalance>3980</startBalance>
     <mutation>+1000</mutation>
-    <endBalance>4981</endBalance>
+    <endBalance>4980</endBalance>
   </record>
   <record reference="115137">
     <accountNumber>NL43AEGO0773393871</accountNumber>
@@ -68,12 +68,5 @@
     <startBalance>28.19</startBalance>
     <mutation>+3.22</mutation>
     <endBalance>31.41</endBalance>
-  </record>
-  <record reference="162410">
-    <accountNumber>NL69ABNA0433647324</accountNumber>
-    <description>dup record Tickets from Jan Bakker </description>
-    <startBalance>10.1</startBalance>
-    <mutation>-0.3</mutation>
-    <endBalance>9.8</endBalance>
   </record>
 </records>
